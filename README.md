@@ -65,6 +65,9 @@ The Text Summarizer application is a Python program built using the Tkinter libr
 1. Install the required dependencies.
 2. Use a tool like PyInstaller or cx_Freeze to convert the script to an executable file.
 
+![image](https://github.com/ChibuikeChad/Text-summarizer/assets/100415574/26dc3855-177f-4cd6-bf84-b8c94df6b7ac)
+
+
 **Disclaimer:** This application requires a working internet connection for PaLM API usage. Handle API keys securely, and replace 'your_api_key' with a valid key.
 
 Feel free to customize the application further based on your needs.
